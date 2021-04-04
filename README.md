@@ -1,2 +1,2 @@
 # financial-articles
-Interesting arrticles I've read in finance 
+Interesting articles I've read in finance 
