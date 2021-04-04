@@ -16,6 +16,6 @@ when a firm has an outsize (10%?) of economic interest of a publicly traded comp
 with derivaties like collaterilize-debt-olligtation (CDO) and credit-default-swap (CDS). These opaque derivatives allow large amount
 of risks remained undetected from the regulators. 
 
-3. Archegos did not cause a system risk like Long Term Capital Management because Archegos only have few concentrated bets.
+3. Archegos did not cause a systemic risk like Long Term Capital Management because Archegos only has few concentrated bets.
 However, with this much liquidity in the market, it does not require much imagination that someone with the same amount of
 risk appetite can accumulate a large amount of counter party risks via deriatives and blow up the financial market again. 
